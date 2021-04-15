@@ -4,3 +4,4 @@ backup-vagrantfiles/
 commands
 id_dockerhost
 
+id_dockerhost.pub
