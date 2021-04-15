@@ -7,8 +7,6 @@ This project sets up Docker for PC using Vagrant.
 - VirtualBox. Restart your machine will be needed. Make sure to update your VirtualBox version if you already have it installed.
 
 
-			
-
 ## Steps
 1. Download and install Vagrant. Test it using GitBash:
 
@@ -20,7 +18,7 @@ This project sets up Docker for PC using Vagrant.
 
 4. Create a key pair for authentication using the command below passing the file name **id_dockerhost** and no passwords.
 
-		**ssh-keygen -t rsa**
+		ssh-keygen -t rsa
 
 
 5. Bring up the host for Docker. If you are on VPN, a network interface option will be shown. Choose your local (usually option 1).
