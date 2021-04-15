@@ -1,0 +1,6 @@
+ubuntu-bionic-18.04-cloudimg-console.log
+backup-vagrantfiles/
+.vagrant/
+commands
+id_dockerhost
+
